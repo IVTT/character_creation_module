@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #ilya
-temp1.py
+temp*.py
